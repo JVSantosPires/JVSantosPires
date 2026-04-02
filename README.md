@@ -1,13 +1,12 @@
-## Olá, eu sou o João Victor 👋
+## Olá, eu sou o João Victor
 
 💻 Estudante de Desenvolvimento de Sistemas na Etec de Heliópolis  
 🚀 Focado em evoluir como desenvolvedor full-stack  
 
 🔭 Atualmente estudando e me aprofundando em:  
-HTML, CSS, JavaScript, Node.js, Python, Java, C#, Arduino  
-MySQL, MongoDB, Firebase  
-APIs REST, JSON  
-Bootstrap, TailwindCSS, React, PHP, Canva  
+HTML, CSS, JavaScript, Node.js,
+Python, Java, C#, Arduino, MySQL, MongoDB, Firebase,
+APIs REST, JSON, Bootstrap, TailwindCSS, React, PHP.
 
 🌱 Atualmente realizando cursos pela plataforma FreeCodeCamp para fortalecer minha base e prática no desenvolvimento  
 
